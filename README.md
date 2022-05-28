@@ -9,10 +9,10 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
 - Robotics Engineering Intern at Kick Robotics, MD
 - You can reach out to me on jaisharm@umd.edu
 - My main coding languages are Python, C++ and Matlab
-- Fun Fact: Je je connais un peu de français.
+- Fun Fact: Je connais un peu de français.
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> Tools:
+## <img src="https://i.gifer.com/1suR.gif" width="35px"> Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -20,6 +20,9 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://i.imgur.com/pXGPNQJ.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
+  <img src="https://i.imgur.com/ucNlRVC.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
+  <img src="https://i.imgur.com/FdxqS5P.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
+  <img src="https://i.imgur.com/YmQrgy6.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
 </p>
 
 
