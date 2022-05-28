@@ -12,17 +12,17 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
 - Fun Fact: Je connais un peu de français.
 
 
-## <img src="https://i.gifer.com/1suR.gif" width="35px"> Tools:
+## <img src="https://i.imgur.com/rZRQ5ZW.jpg" width="20px"> Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://i.imgur.com/pXGPNQJ.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
-  <img src="https://i.imgur.com/ucNlRVC.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
-  <img src="https://i.imgur.com/FdxqS5P.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
-  <img src="https://i.imgur.com/YmQrgy6.png?&style=for-the-badge&logo=github&logoColor=green" width="92px"/>
+  <img src="https://i.imgur.com/pXGPNQJ.png?&style=for-the-badge&logo=github&logoColor=white" width="92px"/>
+  <img src="https://i.imgur.com/ucNlRVC.png?&style=for-the-badge&logo=github&logoColor=white" width="92px"/>
+  <img src="https://i.imgur.com/FdxqS5P.png?&style=for-the-badge&logo=github&logoColor=white" width="92px"/>
+  <img src="https://i.imgur.com/YmQrgy6.png?&style=for-the-badge&logo=github&logoColor=white" width="85px"/>
 </p>
 
 
