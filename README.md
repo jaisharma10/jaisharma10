@@ -34,7 +34,14 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
 </p>
 
 
-
 ## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Favorite Quote 
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
+## <img src="https://content.presentermedia.com/content/animsp/00006000/6550/pie_chart_stick_figure_runner_300_wht.gif" width="35px">  Github Statistics
+
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaisharma10&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/jaisharma10/github-readme-stats)
+
+[![JAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisharma10&show_icons=true&theme=highcontrast&hide=prs)](https://github.com/jaisharma10/github-readme-stats)
