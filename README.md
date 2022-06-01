@@ -1,10 +1,10 @@
-# Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">
 
 
 Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, College Park. I am pursuing my Master's in Robotics. I work on the hardware, electrical and software development of manipulators and autonomous vehicles. Here, you will find some of the programming projects I have worked on through coursework and in my spare time. 
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10px"> About Me:
 - Masters in Robotics at the University of Maryland, College Park
 - Robotics Engineering Intern at Kick Robotics, MD
 - You can reach out to me on jaisharm@umd.edu
@@ -34,11 +34,11 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
 </p>
 
 
-## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Favorite Quote 
+## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="2vw" /> Favorite Quote 
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
-## <img src="https://content.presentermedia.com/content/animsp/00006000/6550/pie_chart_stick_figure_runner_300_wht.gif" width="35px">  Github Statistics
+## <img src="https://content.presentermedia.com/content/animsp/00006000/6550/pie_chart_stick_figure_runner_300_wht.gif" width="2px">  Github Statistics
 
 
 
