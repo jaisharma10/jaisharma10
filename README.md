@@ -1,6 +1,5 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" height="35">
 
-
 Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, College Park. I am pursuing my Master's in Robotics. I work on the hardware, electrical and software development of manipulators and autonomous vehicles. Here, you will find some of the programming projects I have worked on through coursework and in my spare time. 
 
 
@@ -47,3 +46,6 @@ Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, Col
 [![JAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisharma10&show_icons=true&theme=highcontrast&hide=prs)](https://github.com/jaisharma10/github-readme-stats)
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=jaisharma10.jaisharma10) -->
+
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jaisharma10.visitor-badge&left_color=blue&right_color=red)  -->
+
