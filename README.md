@@ -1,6 +1,6 @@
 # Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" height="35">
 
-Welcome to my Github! I am a Graduate student at the Univeristy of Maryland, College Park. I am pursuing my Master's in Robotics. I work on the hardware, electrical and software development of manipulators and autonomous vehicles. Here, you will find some of the programming projects I have worked on through coursework and in my spare time. 
+Welcome to my Github! I am a Graduate student at the University of Maryland, College Park. I am pursuing my Master's in Robotics. I work on the hardware, electrical and software development of manipulators and autonomous vehicles. Here, you will find some of the programming projects I have worked on through coursework and in my spare time. 
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" height="31"> About Me:
