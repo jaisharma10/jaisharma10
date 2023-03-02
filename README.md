@@ -9,7 +9,7 @@ Welcome to my Github! I am a Graduate student at the University of Maryland, Col
 - You can reach out to me on jaisharm@umd.edu
 - My main coding languages are Python, C++ and Matlab
 - Fun Fact: Je connais un peu de français.
-
+- You can check out my portfolio [here](https://www.jai-sharma.com/)
 
 ## <img src="https://i.imgur.com/rZRQ5ZW.jpg" width="25" height="25"> Tools:
 
