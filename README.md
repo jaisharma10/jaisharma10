@@ -43,8 +43,8 @@ Welcome to my Github! I am a Graduate student at the University of Maryland, Col
 
 ![JAI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaisharma10&theme=highcontrast) -->
 
-[![JAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisharma10&show_icons=true&theme=highcontrast&hide=prs)](https://github.com/jaisharma10/github-readme-stats)
+<!-- [![JAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisharma10&show_icons=true&theme=highcontrast&hide=prs)](https://github.com/jaisharma10/github-readme-stats) -->
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=jaisharma10.jaisharma10) -->
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jaisharma10.visitor-badge&left_color=blue&right_color=red)  --> -->
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jaisharma10.visitor-badge&left_color=blue&right_color=red)  -->
